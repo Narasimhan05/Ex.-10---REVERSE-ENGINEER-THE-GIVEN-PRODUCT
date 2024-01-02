@@ -32,7 +32,12 @@
 
 ## Input:
 
+![Screenshot 2023-12-31 153017](https://github.com/Narasimhan05/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/132819871/9f3e561c-bc73-4213-ab58-72eeed193f5c)
+
+
 ### Output:
+
+![Screenshot 2023-12-31 153035](https://github.com/Narasimhan05/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/132819871/8b55b0e7-27f9-4e15-a809-922150acc59c)
 
 
 ### Name:
